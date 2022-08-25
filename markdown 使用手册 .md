@@ -91,7 +91,7 @@ http://www.baidu.com
 
 引用本地文件
 
-![text](images\text.png)
+![text](.\images\text.png)
 
 # 11. 其他行内格式
 
